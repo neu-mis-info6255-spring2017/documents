@@ -1,23 +1,23 @@
 [user]
-	name = YOUR_NAME
-	email = YOUR_EMAIL
+  name = YOUR_NAME
+  email = YOUR_EMAIL
 [core]
-	editor = vi
-	whitespace = cr-at-eol
-	filemode = false
+  editor = vi
+  whitespace = cr-at-eol
+  filemode = false
   ignorecase = false
   autocrtlf = true
 [web]
-	browser = google-chrome
+  browser = google-chrome
 [color]
-	branch = auto
+  branch = auto
   diff = auto
   interactive = auto
   status = auto
 [diff]
-	tool = vimdiff
+  tool = vimdiff
 [difftool]
-	prompt = false
+  prompt = false
 [merge]
   log = true
 [alias]
