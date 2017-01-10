@@ -1,0 +1,24 @@
+[user]
+	name = YOUR_NAME
+	email = YOUR_EMAIL
+[core]
+	editor = vi
+	whitespace = cr-at-eol
+	filemode = false
+  ignorecase = false
+  autocrtlf = true
+[web]
+	browser = google-chrome
+[color]
+	branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
+[merge]
+  log = true
+[alias]
+  adl = add --all
